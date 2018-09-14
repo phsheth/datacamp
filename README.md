@@ -1,2 +1,0 @@
-# datacamp
-datacamp_course
