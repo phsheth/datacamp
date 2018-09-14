@@ -25,8 +25,8 @@
      * A learning objective: Implement Logistic Regression with TensorFlow - this provides a nice segue for Neural Networks 
      
 ## Chapter 4 - Neural Networks with TensorFlow
-   * Lesson 4.1 - Single Hidden Layer Neural Network for image detection
-     * A learning objective: Build single Hidden Layer Neural Network
+   * Lesson 4.1 - Neural Network for image detection
+     * A learning objective: Build Neural Network
    * Lesson 4.2 - Program the cost function
      * A learning objective: Implement cost function
    * Lesson 4.3 - Bringing it all together with Training and epoch iterations
