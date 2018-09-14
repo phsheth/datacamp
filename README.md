@@ -1,4 +1,4 @@
-# Introduction to TensorFlow API on Python
+# Introduction to TensorFlow API in Python
 
 ## Chapter 1 - Understanding Basics of TensorFlow
    * Lesson 1.1 - Introduction to constants and variables
