@@ -1,7 +1,9 @@
-## Description for Capstone Exercise for Introduction to TensorFlow API in Python
-### CONTEXT:
+## Capstone Exercise for Introduction to TensorFlow API in Python
+### Description:
+### Bringing it all together:
+In this exercise, we will create a Multi Layer neural network. The model will contain an input layer, two hidden layers and an output layer. Furhter set the epochs. Then setup the weights and biases for the first layer. After that add the activation function (Sigmoid and RELU are usual functions.). Then setup the weights and biases for the second layer. The output layer will use softmax activation, this is used where binary decisions are to be taken as the predicted label. Setup the cost function, optimizer and the accuracy calculation function. Finally, write the function for starting the session and training the network.
 
-Bringing it all together:
+### Instructions:
 
 In this exercise, we collate all the functions together and build a multi layer neural network. For this, the following steps are performed
 
