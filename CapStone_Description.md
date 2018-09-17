@@ -18,7 +18,7 @@ In this exercise, we collate all the functions together and build a multi layer 
 ```
 import tensorflow as tf
 
-#STEP #1:
+# STEP #1:
 tr_epochs = 500
 n_neurons_in_h1 = 60
 n_neurons_in_h2 = 60
@@ -59,7 +59,7 @@ accuracy = calc_accuracy(args)
 # initialization of all variables
 initial = tf.global_variables_initializer()
 
-#STEP #4:
+# STEP #4:
 train_model_function(args)
 view_confusion_matrix(args)
 ```
