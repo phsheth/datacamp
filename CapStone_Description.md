@@ -61,6 +61,6 @@ initial = tf.global_variables_initializer()
 
 #STEP #4:
 train_model_function(args)
-View and infer results
+view_confusion_matrix(args)
 ```
 
