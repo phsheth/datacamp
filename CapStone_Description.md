@@ -12,9 +12,10 @@ In this exercise, we collate all the functions together and build a multi layer 
 3. Setup the cost function, optimizer and accuracy calculation.
 4. Write the for loop for starting the session and training the network, also printing the epoch, accuracy and predicted v/s actual variables.
 
-```
-EXERCISE CODE:
+### Exercise Code:
 
+
+```
 import tensorflow as tf
 
 #STEP #1:
