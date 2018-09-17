@@ -15,7 +15,7 @@ In this exercise, we collate all the functions together and build a multi layer 
 ### Exercise Code:
 
 
-```
+```python
 import tensorflow as tf
 
 # STEP #1:
