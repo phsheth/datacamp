@@ -46,9 +46,9 @@ bo = tf.Variable(tf.random_normal([n_classes], mean=0, stddev=1/np.sqrt(n_featur
 a = tf.nn.softmax((tf.matmul(y2, Wo) + bo), name='activationOutputLayer')
 
 # STEP #3: 
-# invoke cost functioncost function
+# invoke cost function
 cross_entropy = cost_function(args)
-#optimizer
+# optimizer
 train_step = train_function(args)
 
 #compare predicted value from network with the expected value/target
